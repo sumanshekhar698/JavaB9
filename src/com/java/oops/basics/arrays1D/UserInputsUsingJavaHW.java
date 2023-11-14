@@ -1,10 +1,10 @@
-package com.java.oops.basics;
+package com.java.oops.basics.arrays1D;
 
 import java.util.Scanner;
 //
 //import java.util.*;
 
-public class UserInputsUsingJava {// 99/100
+public class UserInputsUsingJavaHW {// 99/100
 
 	public static void main(String[] args) {
 
