@@ -27,8 +27,7 @@ public class MultiThreaded1 {
 		w3.setName("w3");
 		w4.setName("w4");
 		w4.setPriority(1);
-		
-		
+
 		w5.start();
 		w1.start();
 		w2.start();

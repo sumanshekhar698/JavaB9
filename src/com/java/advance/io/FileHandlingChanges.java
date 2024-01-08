@@ -5,10 +5,11 @@ import java.io.IOException;
 
 public class FileHandlingChanges {
 	public static void main(String[] args) {
-		String path = "C:\\Users\\suman\\eclipse-workspace\\Java B9\\notes\\sample.txt";
+		String path = "C:\\Users\\suman\\eclipse-workspace\\Java B9\\notes\\sample2.txt";
 		File file = new File(path);
 
 		System.out.println(file.exists());
+		
 		
 		if(!file.exists()) {
 			try {
